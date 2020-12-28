@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# ✨ Learing by Doing, 다양한 경험을 추구합니다.
+## ✨ Learing by Doing, 다양한 경험을 추구합니다.
 
 ## 🎓 Education
 - 세종대학교, 응용통계학과 (2019 ~)
