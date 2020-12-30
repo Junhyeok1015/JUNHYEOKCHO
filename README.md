@@ -7,5 +7,5 @@
 ## 🌱 Interests
 - Python
 - Machine-Learning
-- Deep-Learning(Object Detection)
+- Deep-Learning
 - Leadership, Mentoring
