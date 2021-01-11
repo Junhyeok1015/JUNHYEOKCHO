@@ -5,7 +5,7 @@
 - Diploma of Information Technology, UTS Insearch(Australia) (2016 ~ 2017)
 
 ## 🌱 Interests
-- Python
+- Python / Pytorch
 - Machine-Learning
 - Deep-Learning
 - Leadership, Mentoring
