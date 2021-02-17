@@ -6,7 +6,7 @@
 
 ## 🌱 Interests
 - Python / Pytorch / Tensorflow
-- Data Analysis
+- Data / Business Analysis
 - Machine-Learning
 - Deep-Learning
 - Leadership, Mentoring
