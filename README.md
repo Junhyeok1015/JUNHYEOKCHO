@@ -6,6 +6,6 @@
 
 ## 🌱 Interests
 - Data Analysis / Business Analysis (Python / R)
-- Machine-Learning / Deep-Learning (Pytorch / Tensorflow)
+- Machine-Learning / Deep-Learning (Python, Pytorch / Tensorflow)
 - Business Intelligence (SQL, Tableau)
 - Leadership, Mentoring
