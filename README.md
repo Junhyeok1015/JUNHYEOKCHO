@@ -5,7 +5,7 @@
 - Diploma of Information Technology, UTS Insearch(Australia) (2016 ~ 2017)
 
 ## 🌱 Interests
-- Data Analysis / Business Analysis (Python / R)
+- Data Analysis / Business Analysis (SQL / Python / R)
 - Machine-Learning / Deep-Learning (Python, Pytorch / Tensorflow)
-- Business Intelligence (SQL, Tableau)
+- Business Intelligence (Tableau)
 - Leadership, Mentoring
