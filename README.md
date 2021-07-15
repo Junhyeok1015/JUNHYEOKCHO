@@ -9,3 +9,6 @@
 - Machine-Learning / Deep-Learning (Python, Pytorch / Tensorflow)
 - Business Intelligence (Tableau)
 - Leadership, Mentoring
+
+## SNS
+- https://www.linkedin.com/in/junhyeok-cho-772b0b1b9/
