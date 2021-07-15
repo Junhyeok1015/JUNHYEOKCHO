@@ -10,5 +10,7 @@
 - Business Intelligence (Tableau)
 - Leadership, Mentoring
 
-## SNS
-- https://www.linkedin.com/in/junhyeok-cho-772b0b1b9/
+## 🌊**SNS**
+- Naver blog : https://blog.naver.com/mo223772
+- Tableau Public : https://public.tableau.com/profile/junhyeok.cho#!/
+- Linkedin : https://www.linkedin.com/in/junhyeok-cho-772b0b1b9/
